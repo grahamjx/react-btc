@@ -1,1 +1,1 @@
-#webpack config templating / pratice
+webpack config templating / practice
