@@ -1,2 +1,1 @@
-# react-btc
-BTC Orderbook recreation - WIP
+#webpack config templating / pratice
